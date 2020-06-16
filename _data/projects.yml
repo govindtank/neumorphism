@@ -13,21 +13,33 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Fastrrr - Floating Apps
+  descr: "Open more apps at the same time in floating windows and enjoy real multitasking! Don't leave current app for a small task. Fastrrr - Floating Apps is the largest and the most advanced collection of floating mini apps."
+  demo: https://play.google.com/store/apps/details?id=com.heaveninfotech.fastrrr&hl=en
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Android
+    - tag: Java
+    - tag: Third Party Library (StandOut)
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: OfferzZone
+  descr: "OfferzZone is Hyper Local Market Application that provides information regarding nearby stores' latest offers and discounts."
+  demo: https://play.google.com/store/apps/details?id=com.offerzone&hl=en
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Android SDK
+    - tag: Retrofit
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: CityTadka
+  descr: "CityTadka is the one stop solution for a city to know its people, places, and stories. Discover some amazing unexplored places of the city, find food, fashion, and hangouts, explore city’s gems – the people, get to know about the events and shows – everything in one app."
+  demo: https://play.google.com/store/apps/details?id=stimulus.citytadka&hl=en
+  tags:
+    - tag: Android SDK
+    - tag: Retrofit
+    - tag: Picasso
+    
+- name: Employee cum Company Management System
+  descr: "Developed Management System for private individual reputed company which includes some feautures like; product management, employee management, order/service management."
+  tags:
+    -tag: Angular
+    -tag: REST Api
+    -tag: Product Development and Management
+    -tag: Client Engagement and Consultance
