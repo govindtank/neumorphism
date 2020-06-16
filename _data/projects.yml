@@ -38,8 +38,9 @@
     
 - name: Employee cum Company Management System
   descr: "Developed Management System for private individual reputed company which includes some feautures like; product management, employee management, order/service management."
+  demo : 
   tags:
-    -tag: Angular
-    -tag: REST Api
-    -tag: Product Development and Management
-    -tag: Client Engagement and Consultance
+    - tag: Angular
+    - tag: REST Api
+    - tag: Product Development and Management
+    - tag: Client Engagement and Consultance
