@@ -7,7 +7,8 @@ title: Govind Tank
 description: Govind Tank Portfolio Website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+#baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -86,7 +87,8 @@ contact_description: mail me your application requirement on govindtank600@gmail
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: govindtank/neumorphism
+#repository: govindtank/neumorphism
+repository: govindtank/govindtank.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
