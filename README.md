@@ -1,4 +1,5 @@
 # Neumorphism <!-- omit in toc -->
+[![HitCount](http://hits.dwyl.com/govindtank/govindtankgithubio.svg)](http://hits.dwyl.com/govindtank/govindtankgithubio)
 
 > Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.
 
