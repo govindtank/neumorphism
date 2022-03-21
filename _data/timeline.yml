@@ -17,6 +17,16 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Phycom Corporations
+  title-url: http://phycominc.com/
+  date: Apr 2021 - Present
+  subtitle: Associate Android Developer
+  tags:
+    - tag: RxJava2, Dagger
+    - tag: IOT application programming
+    - tag: Firebase Integration, Application Testing
+  timeline-side: right
+
 - title: Micro App Solutions
   title-url: http://www.microappsolutions.com/
   date: Aug 2017 - Dec 2019
